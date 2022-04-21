@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Privacy Policy Page 
+This summary provides key points from our privacy notice.
+What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on
+how you interact with On Melody- Relationship Counter and the Services, the choices you make, and the products and features you use. Click here to learn more.
+Do we process any sensitive personal information? We process sensitive personal information.
+Do you receive any information from third parties? We don't receive information from public databases, marketing partners, social media
+platforms, or any other outside sources. 
+How do you process my information? We process your information to provide, improve, and administer our Services, communicate with you, for
+security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your
+information only when we have a valid legal reason to do so.
 
-You can use the [editor on GitHub](https://github.com/ayomideio/ayomideio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayomideio/ayomideio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How do we keep your information safe? We have organizational and technical processes and procedures in place to protect your personal
+information. 
+What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding
+your personal information.
+How do I exercise my rights? The easiest way to exercise your rights is by filling out our data subject request form available here:
+by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
